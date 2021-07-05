@@ -1,5 +1,5 @@
 from tkinter.tix import Select
-from webbrowser import browser
+
 
 from selenium import webdriver
 import selenium
